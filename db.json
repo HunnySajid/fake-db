@@ -1,14 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "title": "KERI",
+  "logo": "",
+  "theme": {
+    "colors": {
+      "primary": "#1e36ba",
+      "secondary": "#273f33",
+      "error": "#f55877",
+      "heading": "#273444",
+      "text": "#5A5252",
+      "subtext": "#d3dce6",
+      "white": "#ffffff",
+      "black": "#373e49"
+    }
   }
 }
